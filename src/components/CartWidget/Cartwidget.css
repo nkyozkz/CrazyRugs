@@ -1,4 +1,6 @@
-.cartwidget{
-    width: 40px;
-    margin-right: 20px;
+.cart-ico{
+    width: 2rem;
+    height: 2rem;
+    fill: #fff;
 }
+
